@@ -8,7 +8,7 @@ so let see one by one of the word from "STATIC DATAFLOW GRAPH". <br>
 - DATAFLOW : refers to the way data moves and flows through the computational graph during the execution of a program. Each node in the graph represents an operation, and the **edges** between **nodes** represent the flow of data from one operation to another.
 - GRAPH : refers to a computational graph or a directed acyclic graph (DAG). It is a representation of the mathematical operations and dependencies between them in a machine learning model <br>
 
-related images to the DAG :
-![Alt text](<https://media.geeksforgeeks.org/wp-content/uploads/20231019164716/Untitled-Diagram-(2).png> "DAG")
+related images to the DAG : <br>
+![Alt text](https://media.geeksforgeeks.org/wp-content/uploads/20231019170926/dag6-660x478.jpeg "DAG")
 
 ## Architecture behind Pytorch
